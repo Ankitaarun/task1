@@ -21,4 +21,4 @@ cout<<" enter two numbers :" ;
 cin>>a>>"\n">>b ;
 cout<<"Product="<<product;
 return 0;
-}
+ }
