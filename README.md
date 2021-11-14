@@ -1,2 +1,24 @@
-# task1
-developed by ankita arun
+#include <iostream> 
+using namespace std;
+int main() 
+{ 
+cout << "Size of char: " << sizeof(char) << " byte";
+cout << "Size of int: " << sizeof(int) << "bytes" ; 
+cout << "Size of float: " << sizeof(float) << " bytes" ;
+cout << "Size of double: " << sizeof(double) << " bytes";
+return 0; 
+}
+
+  
+  
+#include<iostream.h>
+using namespace std;
+
+int main()
+{
+float a,b, product;
+cout<<" enter two numbers :" ;
+cin>>a>>"\n">>b ;
+cout<<"Product="<<product;
+return 0;
+}
